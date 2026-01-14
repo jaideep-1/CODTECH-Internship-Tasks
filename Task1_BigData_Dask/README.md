@@ -20,6 +20,16 @@ Run parallel grouped aggregations.
 Analyzed rating distribution, most reviewed products, and most active users.
 
 Visualized insights using Matplotlib.
+Screenshots
+
+Repository Structure
+[Structure](Task1_GitHub_Structure.png)
+
+Code Execution
+[Output](Task1_Code_Output.png)
+
+Visualization
+[Chart](Task1_Visualization.png)
 
 Insights:
 
