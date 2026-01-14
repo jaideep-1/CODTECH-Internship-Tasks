@@ -26,3 +26,15 @@ Build a multi-class machine learning model to classify emotions from text messag
 - Classification report
 - Confusion matrix visualization
 
+  ## Screenshots
+
+### Repository Structure
+![Structure](Task2_GitHub_Structure.png)
+
+### Code Execution
+![Output](Task2_Code_Output.png)
+
+### Confusion Matrix
+![Confusion](Task2_ConfusionMatrix.png)
+
+
